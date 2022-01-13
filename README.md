@@ -1,2 +1,2 @@
-# Testes-WeCares-com-Selenium
-Testes da plataforma WeCares utilizando Selenium WebDriver
+# Testes end-to-end plataforma WeCares
+Testes da plataforma WeCares utilizando Selenium WebDriver e Java
